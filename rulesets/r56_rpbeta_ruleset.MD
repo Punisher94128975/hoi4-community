@@ -56,12 +56,12 @@
 
 ## Faction Rules
 1. If your faction becomes over the limit at any time during the game you may be asked to remove a member of your faction.
-2. Joining faction's of other ideologies is set in-game with "Custom Game Rules" by the host, not this ruleset.
-3. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
-4. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
-5. You may only join or leave factions once every year.
-6. You may join a faction via National Focus at any time so long as you are not breaking faction rule #3.
-7. If you join a faction via National Focus you are allowed to imediately leave.
+1. Joining faction's of other ideologies is set in-game with "Custom Game Rules" by the host, not this ruleset.
+1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
+1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
+1. You may only join or leave factions once every year.
+   1. You may join a faction via National Focus at any time so long as you are not breaking faction rule #3.
+   1. If you join a faction via National Focus you are allowed to imediately leave.
 
 ## Declaring Rules
 * Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!  
