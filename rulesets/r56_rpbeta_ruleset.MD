@@ -10,7 +10,7 @@
 [Country Designations](#country-designations)  
 [Faction Rules](#faction-rules)  
 
-## General Rules:
+## General Rules
 1. **No exploiting.**
    - Using game mechanics to give yourself an un-fair advantage in a way not originally intended by the game/mod developer.
 2. **No circumventing the ruleset.**
@@ -20,7 +20,7 @@
 4. **No circumventing bans.**
    - Changing your Discord/steam/in-game username(s) to enter into games you are blacklisted from.
 
-## Country Designations:
+## Country Designations
 1. **Supermajors:**
    1. United States
    1. Germany
@@ -29,16 +29,20 @@
    1. Franco Spanish Union
    1. Imperial Federation
    1. Anglosphere
-   1. South America
+   1. All formable continents (Europe, South America, Asia, etc.)
 1. **Majors:**
    1. All majors are defined in-game via Diplomacy -> Major Countries
 1. **Minors:**
    1. Any country that is not considered a Supermajor or Major is considered a minor country
 
-## Faction Rules:
+## Faction Rules
 
-### Faction Size:
+### Faction Size Limits:
 1. Only 1 supermajor or formable supermajor allowed per faction.
 1. Only 2 majors allowed per faction.
 1. Up to 5 player minors allowed per faction.
 1. Up to 5 player nations are allowed per faction (so long as it abides by the above faction rules).
+
+## Credits
+Tevo - Many rules where used from this commonly used ruleset.
+Pizza - Added "Imperial Federation", "Anglosphere", and all formable continents as formable supermajors.
