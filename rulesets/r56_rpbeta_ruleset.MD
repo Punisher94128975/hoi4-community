@@ -64,7 +64,8 @@
 7. If you join a faction via National Focus you are allowed to imediately leave.
 
 ## Declaring Rules
-* Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!
+* Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!  
+
 **Dogpiling**
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
 1. You must wait 1 year before declaring on a nation that has **entered a defensive war**.
