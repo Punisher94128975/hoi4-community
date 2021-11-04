@@ -6,9 +6,9 @@
 - Anyone is allowed to propose changes to the public ruleset by creating a pull request.
 
 ## Index
-[General Rules](#general-rules)
-[Country Designations](#country-designations)
-[Faction Rules](#faction-rules)
+[General Rules](#general-rules)  
+[Country Designations](#country-designations)  
+[Faction Rules](#faction-rules)  
 
 ## General Rules:
 1. **No exploiting.**
