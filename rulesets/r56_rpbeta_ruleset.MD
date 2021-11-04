@@ -92,13 +92,14 @@
 1. Space Marines (Any division with Infantry/Camels/Bicycles/etc mixed with tanks. Amphibious tanks with marines are the only exception.)
 
 ## Naval Unit Rules  
-1. 1944 Submarines and beyond are banned (for balancing).
-1. Submarine snorkels are banned (for balancing).
-1. Naval mines are banned (for balancing).
-1. Heavy bombers two and three are banned.  
+1. 1944 Submarines and beyond are banned.
+1. Submarine snorkel technologies are banned.
+1. Use of "Minelaying" naval mission is banned.
 
 ## Air Unit Rules  
-1. You may only deploy a single Strategic Bomber for use with nukes, otherwise they are banned.
+1. Any Heavy Bomber technology above 1936 is banned except;
+1. You may deploy a single Strategic Bomber newer than 1936 for use with nukes.
+1. Use of the "Kamikaze" strike mission is banned.
 
 ## Support Rules
 1. Players may only send volunteers to other player nations during standard or civil wars, except for:
