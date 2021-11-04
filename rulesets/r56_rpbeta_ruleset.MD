@@ -6,21 +6,20 @@
 - Anyone is allowed to propose changes to the public ruleset by creating a pull request.
 
 ## Index
-[General Rules](#general-rules)  
-[Country Designations](#country-designations)  
-[Faction Size Limits](#faction-size-limits)  
-[Faction Rules](#faction-rules)  
-[Declaring Rules](#declaring-rules)  
-[Agency / Spies Rules](#declaring-rules)  
-[Unit Rules](#units-rules)  
-[Nation Rules](#nation-rules)  
-1. [Japan](#japan)
-1. [USA](#usa)  
-1. [Germany](#germany)  
-1. [Soviet Union](#soviet-union)  
-1. [United Kingdom](#united-kingdom)   
-
-[Credits](#credits)
+1. [General Rules](#general-rules)  
+1. [Country Designations](#country-designations)  
+1. [Faction Size Limits](#faction-size-limits)  
+1. [Faction Rules](#faction-rules)  
+1. [Declaring Rules](#declaring-rules)  
+1. [Agency / Spies Rules](#declaring-rules)  
+1. [Unit Rules](#units-rules)  
+1. [Nation Rules](#nation-rules)  
+   1. [Japan](#japan)
+   1. [USA](#usa)  
+   1. [Germany](#germany)  
+   1. [Soviet Union](#soviet-union)  
+   1. [United Kingdom](#united-kingdom)   
+1. [Credits](#credits)
 
 ## General Rules
 1. **No exploiting.**
