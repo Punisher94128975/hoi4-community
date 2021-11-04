@@ -1,4 +1,8 @@
+<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield" alt="Discord Shield"/>
+
 # Road to 56 RP Beta Ruleset
+- This is the HOI4 Community created and maintained ruleset for the *Road to 56 RP Beta* mod.
+- Anyone is allowed to propose changes to the public ruleset by creating a pull request.
 
 
 ## General Rules:
