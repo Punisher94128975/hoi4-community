@@ -45,14 +45,14 @@
 1. Up to 5 player nations are allowed per faction (so long as it abides by the above faction rules).
 
 ### Faction Size Rules:
-1. Since nations can grow into a major/supermajor, this should be taken into account when creating a faction. If your faction becomes over the limit at any time during the game you may be asked to remove a member of your faction.
+1. If your faction becomes over the limit at any time during the game you may be asked to remove a member of your faction.
 1. Joining faction's of other ideologies is set by the host via in-game "Custom Game Rules" not by this ruleset.
 1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
 1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
 
 ## Declaring
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
-2. You must wait 1 years before declaring on a nation that has **entered a defensive war**.  
+2. You must wait 1 year before declaring on a nation that has **entered a defensive war**.  
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
