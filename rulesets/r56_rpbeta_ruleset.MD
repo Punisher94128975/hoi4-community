@@ -44,7 +44,7 @@
 
 ## Faction Rules
 1. If your faction becomes over the limit at any time during the game you may be asked to remove a member of your faction.
-1. Joining faction's of other ideologies is set by the host via in-game "Custom Game Rules" not by this ruleset.
+1. Joining faction's of other ideologies is set in-game with "Custom Game Rules" by the host, not this ruleset.
 1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
 1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
 1. You may only join or leave factions once every year.
@@ -56,8 +56,15 @@
 2. You must wait 1 year before declaring on a nation that has **entered a defensive war**.  
 
 ## Agency / Spies
-1. Coups are decided by in-game host set "C
-2. You may not set spies onto an enemy frontline so that their planning bonus gets nullified. Same thing regarding entrenchment.
+1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
+2. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
+3. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
+
+## Units
+1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
+    \* When disabled the in game action of paradrop is disabled, not the creation of the unit.
+1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
+    \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
