@@ -98,6 +98,7 @@
 1. Heavy bombers two and three are banned.  
 
 ## Air Unit Rules  
+1. You may only deploy a single Strategic Bomber for use with nukes, otherwise they are banned.
 
 ## Support Rules
 1. Players may only send volunteers to other player nations during standard or civil wars, except for:
