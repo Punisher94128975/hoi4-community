@@ -17,4 +17,7 @@
    - Changing your Discord/steam/in-game username(s) to enter into games you are blacklisted from.
 
 ### Faction Rules:
-1. A total of 5 player countries are allowed in a faction.
+1. **A total of 5 player countries are allowed in a faction.**
+   - Only 1 super-major allowed per faction
+   - Only 2 majors allowed per faction
+   - Only 2 player minors allowed per faction
