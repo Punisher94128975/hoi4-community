@@ -16,15 +16,22 @@
 4. **No circumventing bans.**
    - Changing your Discord/steam/in-game username(s) to enter into games you are blacklisted from.
 
-### Faction Rules:
+## Country Designations:
 1. Supermajors:
    1. United States
    1. Germany
    1. Soviet Union
 1. Formable Supermajors:
    1. Franco Spanish Union
+   1. Imperial Federation
+   1. Anglosphere
+1. Majors:
+   1. All majors are defined in-game via Diplomacy -> Major Countries
+1. Minors:
+   1. Any country that is not considered a Supermajor or Major is considered a minor country
 
-1. **A total of 5 player countries are allowed in a faction.**
-   - Only 1 super-major allowed per faction
-   - Only 2 majors allowed per faction
-   - Up to 5 player minors allowed per faction ()
+### Faction Rules:
+1. Only 1 supermajor or formable supermajor allowed per faction.
+1. Only 2 majors allowed per faction.
+1. Up to 5 player minors allowed per faction.
+- * Factions have a limit of 5 player nations.
