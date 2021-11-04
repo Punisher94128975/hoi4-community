@@ -8,7 +8,18 @@
 ## Index
 [General Rules](#general-rules)  
 [Country Designations](#country-designations)  
+[Faction Size Limits](#faction-size-limits)  
 [Faction Rules](#faction-rules)  
+[Declaring Rules](#declaring-rules)  
+[Agency / Spies Rules](#declaring-rules)  
+[Unit Rules](#units-rules)  
+[Nation Rules](#nation-rules)
+   - [Japan](#japan)
+   - [USA](#usa)
+   - [Germany](#germany)
+   - [Soviet Union](#soviet-union)
+   - [United Kingdom](#united-kingdom)
+[Credits](#credits)
 
 ## General Rules
 1. **No exploiting.**
@@ -58,7 +69,7 @@
 1. Minors may not enter war against AI nations until January 1st 1937.  
 1. Majors may not enter war against AI nations until January 1st 1938.
 1. Minors may not enter war against Player nations on January 1st 1939.
-1. Majors may not enter war war against Player nations on January 1st 1940.
+1. Majors may not enter war against Player nations on January 1st 1940.
 1. Events, Decisions, Focuses, etc are not excluded from the above rules.
 
 ## Agency / Spies Rules
@@ -66,7 +77,7 @@
 1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
 
-## Units
+## Unit Rules
 1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
     \* When disabled the in game action of paradrop is disabled, not the creation of the unit.
 1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
@@ -79,7 +90,7 @@
 
 ### USA
 1. May not enter war against the Japan until January 1st 1941.
-1. May not create or join a faction until January 1st 1940.
+1. May not join a faction until January 1st 1940.
 1. May not enter "Giant Wakes" until January 1st 1937.
 
 ### Germany
@@ -89,6 +100,10 @@
 1. May not enter war against Germany until January 1st 1941.
 
 ### United Kingdom
+
+## Known Exploits
+1. Front Line Garrisoning
+1. Spanish Civil War
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.   
