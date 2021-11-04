@@ -1,6 +1,7 @@
 ## Road to 56 RP Beta Ruleset  
-<h3>General Rules:</h3>
+<div><h3>General Rules:</h3></div>
 (*All general rules are enforced at the hosts discretion)
+
 1. **No exploiting.**
    - Using game mechanics to give yourself an un-fair advantage in a way not originally intended by the game/mod developer.
 2. **No circumventing the ruleset.**
