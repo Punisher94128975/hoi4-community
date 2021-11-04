@@ -50,6 +50,10 @@
 1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
 1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
 
+## Declaring
+1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
+2. You must wait 1 years before declaring on a nation that has **entered a defensive war**.  
+
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
 *Pizza* - Added "Imperial Federation", "Anglosphere", and all formable continents as formable supermajors.  
