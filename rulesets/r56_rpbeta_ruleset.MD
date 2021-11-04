@@ -57,6 +57,7 @@
 
 ## Agency / Spies
 1. Coups are decided by in-game host set "C
+2. You may not set spies onto an enemy frontline so that their planning bonus gets nullified. Same thing regarding entrenchment.
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
