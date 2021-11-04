@@ -47,6 +47,8 @@
 ### Faction Size Rules:
 1. Since nations can grow into a major/supermajor, this should be taken into account when creating a faction. If your faction becomes over the limit at any time during the game you may be asked to remove a member of your faction.
 1. Joining faction's of other ideologies is set by the host via in-game "Custom Game Rules" not by this ruleset.
+1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
+1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
