@@ -66,7 +66,4 @@
     \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.
 
 ## Credits
-*Tevo* - Many rules where used from his commonly used ruleset.  
-*Pizza* - Gave input and helped with initial creation.  
-*Joop* - Gave input and helped with initial creation.  
-*Adamski* - Gave input and helped with initial creation.  
+*Tevo* - Many rules where used from his commonly used ruleset.   
