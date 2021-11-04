@@ -94,7 +94,7 @@
 ## Air Unit Rules  
 
 ## Support Rules
-1. Players may only send volunteers to other player nations during a civil war, except for:
+1. Players may only send volunteers to other player nations during standard or civil wars, except for:
    1. Spanish Civil war
    1. Sino-Japanese
 
