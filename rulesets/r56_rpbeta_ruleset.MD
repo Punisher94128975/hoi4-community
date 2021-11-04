@@ -17,7 +17,14 @@
    - Changing your Discord/steam/in-game username(s) to enter into games you are blacklisted from.
 
 ### Faction Rules:
+1. Supermajors:
+   1. United States
+   1. Germany
+   1. Soviet Union
+1. Formable Supermajors:
+   1. Franco Spanish Union
+
 1. **A total of 5 player countries are allowed in a faction.**
    - Only 1 super-major allowed per faction
    - Only 2 majors allowed per faction
-   - Only 2 player minors allowed per faction
+   - Up to 5 player minors allowed per faction ()
