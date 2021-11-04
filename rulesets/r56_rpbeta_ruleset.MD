@@ -53,12 +53,15 @@
 
 ## Declaring
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
-2. You must wait 1 year before declaring on a nation that has **entered a defensive war**.  
+1. You must wait 1 year before declaring on a nation that has **entered a defensive war**.  
+1. South American, Central American, and Chinese Warlord States may declare January 1st 1936.
+1. Minors may **declare** war against AI nations on January 1st 1937.  
+1. Majors may **declare** war against AI nations on January 1st 1938.
 
 ## Agency / Spies
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
-2. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
-3. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
+1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
+1. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
 
 ## Units
 1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
