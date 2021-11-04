@@ -12,7 +12,9 @@
 1. [Faction Rules](#faction-rules)  
 1. [Declaring Rules](#declaring-rules)  
 1. [Agency / Spies Rules](#declaring-rules)  
-1. [Unit Rules](#units-rules)  
+1. [Land Unit Rules](#land-units-rules)  
+1. [Naval Unit Rules](#naval-units-rules)  
+1. [Air Unit Rules](#air-units-rules)  
 1. [Nation Rules](#nation-rules)  
    1. [Japan](#japan)
    1. [USA](#usa)  
@@ -55,12 +57,12 @@
 
 ## Faction Rules
 1. If your faction becomes over the limit at any time during the game you may be asked to remove a member of your faction.
-1. Joining faction's of other ideologies is set in-game with "Custom Game Rules" by the host, not this ruleset.
-1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
-1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
-1. You may only join or leave factions once every year.
-1. You may join a faction via National Focus at any time so long as you are not breaking faction rule #3.
-1. If you join a faction via National Focus you are allowed to imediately leave.
+2. Joining faction's of other ideologies is set in-game with "Custom Game Rules" by the host, not this ruleset.
+3. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
+4. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
+5. You may only join or leave factions once every year.
+6. You may join a faction via National Focus at any time so long as you are not breaking faction rule #3.
+7. If you join a faction via National Focus you are allowed to imediately leave.
 
 ## Declaring Rules
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
@@ -77,11 +79,20 @@
 1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
 
-## Unit Rules
+## Land Unit Rules  
 1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
     \* When disabled the in game action of paradrop is disabled, not the creation of the unit.
 1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
-    \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.
+    \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.  
+1. Space Marines (Any form of Infantry/Camels/Bicycles mixed with tanks). Amhpbious tanks with marines are the exception.  
+
+## Naval Unit Rules  
+1. 1944 Submarines and beyond are banned (for balancing).
+1. Submarine snorkels are banned (for balancing).
+1. Naval mines are banned (for balancing).
+1. Heavy bombers two and three are banned.  
+
+## Air Unit Rules  
 
 ## Nation Rules
 
@@ -97,13 +108,13 @@
 1. May not enter war against the Soviet Union until January 1st 1941.
 
 ### Soviet Union
-1. May not enter war against Germany until January 1st 1941.
+1. May not enter war against Germany until January 1st 1941.  
 
-### United Kingdom
+### United Kingdom  
 
 ## Known Exploits
 1. Front Line Garrisoning
 1. Spanish Civil War
 
 ## Credits
-*Tevo* - Many rules where used from his commonly used ruleset.   
+*Tevo* - Many rules where used from his commonly used ruleset.  
