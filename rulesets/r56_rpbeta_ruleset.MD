@@ -62,7 +62,7 @@
 1. You may only join or leave factions once every year.
    1. You may join a faction via a National Focus at any time.
    1. If you join a faction via a National Focus you are allowed to imediately leave.
-   1. The above rules may not break [Faction Rules](#faction-rules) #3.
+   1. **The above rules do not exclude you from following [Faction Rules](#faction-rules) #3**.
 
 ## Declaring Rules
 * Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!  
