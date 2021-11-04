@@ -14,11 +14,11 @@
 [Agency / Spies Rules](#declaring-rules)  
 [Unit Rules](#units-rules)  
 [Nation Rules](#nation-rules)  
-    [Japan](#japan)  
-    [USA](#usa)  
-    [Germany](#germany)  
-    [Soviet Union](#soviet-union)  
-    [United Kingdom](#united-kingdom)   
+- [Japan](#japan)
+- [USA](#usa)  
+- [Germany](#germany)  
+- [Soviet Union](#soviet-union)  
+- [United Kingdom](#united-kingdom)   
 [Credits](#credits)
 
 ## General Rules
