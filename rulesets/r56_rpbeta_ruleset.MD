@@ -51,7 +51,7 @@
 1. You may join a faction via National Focus at any time so long as you are not breaking faction rule #3.
 1. If you join a faction via National Focus you are allowed to imediately leave.
 
-## Declaring
+## Declaring Rules
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
 1. You must wait 1 year before declaring on a nation that has **entered a defensive war**.  
 1. South American, Central American, and Chinese Warlord States may declare January 1st 1936.
@@ -61,7 +61,7 @@
 1. Majors may not enter war war against Player nations on January 1st 1940.
 1. Events, Decisions, Focuses, etc are not excluded from the above rules.
 
-## Agency / Spies
+## Agency / Spies Rules
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
@@ -71,6 +71,24 @@
     \* When disabled the in game action of paradrop is disabled, not the creation of the unit.
 1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
     \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.
+
+## Nation Rules
+
+### Japan
+1. May not enter war against the United States until January 1st 1941.
+
+### USA
+1. May not enter war against the Japan until January 1st 1941.
+1. May not create or join a faction until January 1st 1940.
+1. May not enter "Giant Wakes" until January 1st 1937.
+
+### Germany
+1. May not enter war against the Soviet Union until January 1st 1941.
+
+### Soviet Union
+1. May not enter war against Germany until January 1st 1941.
+
+### United Kingdom
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.   
