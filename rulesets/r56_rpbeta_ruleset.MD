@@ -46,8 +46,8 @@
 
 ### Faction Size Rules:
 1. Since nations can grow into a major/supermajor, this should be taken into account when creating a faction. If your faction becomes over the limit at any time during the game you may be asked to remove a member of your faction.
-1. Joining faction's of other ideologies is set by the host via in-game "Custom Game Rules" not by the ruleset.
+1. Joining faction's of other ideologies is set by the host via in-game "Custom Game Rules" not by this ruleset.
 
 ## Credits
-Tevo - Many rules where used from this commonly used ruleset.
-Pizza - Added "Imperial Federation", "Anglosphere", and all formable continents as formable supermajors.
+*Tevo* - Many rules where used from his commonly used ruleset.  
+*Pizza* - Added "Imperial Federation", "Anglosphere", and all formable continents as formable supermajors.  
