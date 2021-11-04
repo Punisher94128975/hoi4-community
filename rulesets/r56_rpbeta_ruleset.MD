@@ -79,6 +79,11 @@
 1. South American, Central American, and Chinese Warlord States may declare January 1st 1936.
 1. Events, Decisions, Focuses, etc are not excluded from the above rules.
 
+## Treaty Rules
+1. You may not take land from another player in a treaty that you did not fight for.
+1. You may only take land from the nations your troops directly entered.
+   1. E.g. if a faction leader capitulates you are only allowed to take the land from nations you directly entered and fought for.
+
 ## Agency / Spies Rules
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
@@ -89,12 +94,15 @@
     \* When disabled the in game action of paradrop is disabled, not the creation of the unit.
 1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
     \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.  
-1. Space Marines (Any division with Infantry/Camels/Bicycles/etc mixed with tanks. Amphibious tanks with marines are the only exception.)
+1. Space Marines (Any division with Infantry/Camels/Bicycles/etc mixed with tanks. Amphibious tanks with marines are the only exception).
+1. Use of Asymmetrical Warfare doctorine is prohibited. If you start with it you must change.
+1. Minimum division template combat width of 10.
 
 ## Naval Unit Rules  
 1. 1944 Submarines and beyond are banned.
 1. Submarine snorkel technologies are banned.
 1. Use of "Minelaying" naval mission is banned.
+1. Use of "Never Engage" engagement rule is banned.
 
 ## Air Unit Rules  
 1. Any Heavy Bomber technology above 1936 is banned except;
