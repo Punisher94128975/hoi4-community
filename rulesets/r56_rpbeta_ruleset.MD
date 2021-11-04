@@ -1,1 +1,6 @@
-# This is a test!
+### General Rules:
+#### * All general rules are enforced at the hosts discretion
+1. No exploiting. (Using game mechanics to give yourself an un-fair advantage in a way not originally intended by the game/mod developer)
+1. No circumventing the ruleset. (Using unthough-of mechanics to circumvent a rule to give yourself an advantage in which the rule was originally intended to stop)
+1. No cheating. (Using third-party software, hardware, or modified game/mod files in a malicous way or to give yourself/others an advantage)
+1. No circumventing bans. (Changing your Discord/steam/in-game username(s) to enter into games you are blacklisted from)
