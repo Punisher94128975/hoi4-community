@@ -34,4 +34,4 @@
 1. Only 1 supermajor or formable supermajor allowed per faction.
 1. Only 2 majors allowed per faction.
 1. Up to 5 player minors allowed per faction.
-- *Factions have a limit of 5 player nations.
+1. Up to 5 player nations are allowed per faction (so long as it abides by the above rules 1-3).
