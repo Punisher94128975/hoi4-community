@@ -1,5 +1,5 @@
 ## Road to 56 RP Beta Ruleset  
-<div><h3 style="padding: 0">General Rules:</h3></div>
+<div><h3 style="margin-bottom: 0px">General Rules:</h3></div>
 (*All general rules are enforced at the hosts discretion)
 
 1. **No exploiting.**
