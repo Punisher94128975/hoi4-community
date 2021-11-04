@@ -29,6 +29,7 @@
    1. Franco Spanish Union
    1. Imperial Federation
    1. Anglosphere
+   1. South America
 1. **Majors:**
    1. All majors are defined in-game via Diplomacy -> Major Countries
 1. **Minors:**
