@@ -61,9 +61,9 @@
 
 ## Units
 1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
-    *When disabled the in game action of paradrop is disabled, not the creation of the unit.
-1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.
-    *The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.
+    \* When disabled the in game action of paradrop is disabled, not the creation of the unit.
+1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
+    \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
