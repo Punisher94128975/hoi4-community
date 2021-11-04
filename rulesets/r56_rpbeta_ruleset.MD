@@ -40,9 +40,9 @@
 1. Only 1 supermajor or formable supermajor allowed per faction.
 1. Only 2 majors allowed per faction.
 1. Up to 5 player minors allowed per faction.
-1. Up to 5 player nations are allowed per faction (so long as it abides by the above faction rules).
+1. **A Maximum of 5 player nations are allowed per faction** (so long as it abides by the above faction rules).
 
-## Faction Rules:
+## Faction Rules
 1. If your faction becomes over the limit at any time during the game you may be asked to remove a member of your faction.
 1. Joining faction's of other ideologies is set by the host via in-game "Custom Game Rules" not by this ruleset.
 1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
@@ -55,7 +55,11 @@
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
 2. You must wait 1 year before declaring on a nation that has **entered a defensive war**.  
 
+## Agency / Spies
+1. Coups are decided by in-game host set "C
+
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
-*Pizza* - Helped with initial creation.
-*Joop* - Helped with initial creation. 
+*Pizza* - Gave input and helped with initial creation.  
+*Joop* - Gave input and helped with initial creation.  
+*Adamski* - Gave input and helped with initial creation.  
