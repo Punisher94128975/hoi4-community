@@ -87,6 +87,10 @@
 
 ### Japan
 1. May not enter war against the United States until January 1st 1941.
+2. Kamikaze planes may only be sent from starting Japanese cores.
+3. Must do Marco Polo before any sort of justification.
+4. Can't do Marco Polo until Jan 1st 1937
+
 
 ### USA
 1. May not enter war against the Japan until January 1st 1941.
@@ -100,6 +104,10 @@
 1. May not enter war against Germany until January 1st 1941.
 
 ### United Kingdom
+1. No decolonising or forming African Colab governments.
+2. Must let player subjects break free
+3. Cannot deny Rhineland/sudetenland event. 
+
 
 ## Known Exploits
 1. Front Line Garrisoning
