@@ -60,8 +60,9 @@
 1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
 1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
 1. You may only join or leave factions once every year.
-   1. You may join a faction via a National Focus at any time (so long as you are not breaking faction rule #3).
-   1. If you join a faction via a National Focus you are allowed to imediately leave (so long as you are not breaking faction rule #3).
+   1. You may join a faction via a National Focus at any time.
+   1. If you join a faction via a National Focus you are allowed to imediately leave.
+   1. The above rules may not break [Faction Rules](#faction-rules) #3.
 
 ## Declaring Rules
 * Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!  
