@@ -1,4 +1,4 @@
-<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield" alt="Discord Shield"/>
+<img src="https://discordapp.com/api/guilds/183787140671471616/widget.png?style=shield" alt="Hearts of Iron 4 Community"/>
 
 # Road to 56 RP Beta Ruleset
 - This is the HOI4 Community created and maintained ruleset for the *Road to 56 RP Beta* mod.
