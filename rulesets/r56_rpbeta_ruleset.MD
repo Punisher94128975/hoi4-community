@@ -18,7 +18,8 @@
 1. [USA](#usa)  
 1. [Germany](#germany)  
 1. [Soviet Union](#soviet-union)  
-1. [United Kingdom](#united-kingdom)  
+1. [United Kingdom](#united-kingdom)   
+
 [Credits](#credits)
 
 ## General Rules
