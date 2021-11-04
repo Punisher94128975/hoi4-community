@@ -6,9 +6,22 @@
 - Anyone is allowed to propose changes to the public ruleset by creating a pull request.
 
 ## Index
-[General Rules](#general-rules)  
-[Country Designations](#country-designations)  
-[Faction Rules](#faction-rules)  
+1. [General Rules](#general-rules)  
+1. [Country Designations](#country-designations)  
+1. [Faction Size Limits](#faction-size-limits)  
+1. [Faction Rules](#faction-rules)  
+1. [Declaring Rules](#declaring-rules)  
+1. [Agency / Spies Rules](#declaring-rules)  
+1. [Land Unit Rules](#land-units-rules)  
+1. [Naval Unit Rules](#naval-units-rules)  
+1. [Air Unit Rules](#air-units-rules)  
+1. [Nation Rules](#nation-rules)  
+   1. [Japan](#japan)
+   1. [USA](#usa)  
+   1. [Germany](#germany)  
+   1. [Soviet Union](#soviet-union)  
+   1. [United Kingdom](#united-kingdom)   
+1. [Credits](#credits)
 
 ## General Rules
 1. **No exploiting.**
@@ -51,29 +64,57 @@
 6. You may join a faction via National Focus at any time so long as you are not breaking faction rule #3.
 7. If you join a faction via National Focus you are allowed to imediately leave.
 
-## Declaring
+## Declaring Rules
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
-2. You must wait 1 year before declaring on a nation that has **entered a defensive war**.  
+1. You must wait 1 year before declaring on a nation that has **entered a defensive war**.  
+1. South American, Central American, and Chinese Warlord States may declare January 1st 1936.
+1. Minors may not enter war against AI nations until January 1st 1937.  
+1. Majors may not enter war against AI nations until January 1st 1938.
+1. Minors may not enter war against Player nations on January 1st 1939.
+1. Majors may not enter war against Player nations on January 1st 1940.
+1. Events, Decisions, Focuses, etc are not excluded from the above rules.
 
-## Agency / Spies
+## Agency / Spies Rules
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
-2. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
-3. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
+1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
+1. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
 
-## Units
+## Land Unit Rules  
 1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
     \* When disabled the in game action of paradrop is disabled, not the creation of the unit.
-2. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
-    \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.
+1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
+    \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.  
+1. Space Marines (Any form of Infantry/Camels/Bicycles mixed with tanks). Amhpbious tanks with marines are the exception.  
 
-3. Space Marines (Any form of Infantry/Camels/Bicycles mixed with tanks). Amhpbious tanks with marines are the exception.
+## Naval Unit Rules  
+1. 1944 Submarines and beyond are banned (for balancing).
+1. Submarine snorkels are banned (for balancing).
+1. Naval mines are banned (for balancing).
+1. Heavy bombers two and three are banned.  
 
-4. Submarine 4s, snorkels one and two are banned along with naval mines.
+## Air Unit Rules  
 
-5. Heavy bombers two and three are banned.
+## Nation Rules
+
+### Japan
+1. May not enter war against the United States until January 1st 1941.
+
+### USA
+1. May not enter war against the Japan until January 1st 1941.
+1. May not join a faction until January 1st 1940.
+1. May not enter "Giant Wakes" until January 1st 1937.
+
+### Germany
+1. May not enter war against the Soviet Union until January 1st 1941.
+
+### Soviet Union
+1. May not enter war against Germany until January 1st 1941.  
+
+### United Kingdom  
+
+## Known Exploits
+1. Front Line Garrisoning
+1. Spanish Civil War
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
-*Pizza* - Gave input and helped with initial creation.  
-*Joop* - Gave input and helped with initial creation.  
-*Adamski* - Gave input and helped with initial creation.  
