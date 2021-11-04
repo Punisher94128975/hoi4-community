@@ -48,7 +48,7 @@
 1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
 1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
 1. You may only join or leave factions once every year.
-1. You may join a faction via National Focus at any time so long as you are not breaking Faction Rule #3.
+1. You may join a faction via National Focus at any time so long as you are not breaking faction rule #3.
 1. If you join a faction via National Focus you are allowed to imediately leave.
 
 ## Declaring
@@ -57,4 +57,5 @@
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
-*Pizza* - Added "Imperial Federation", "Anglosphere", and all formable continents as formable supermajors.  
+*Pizza* - Helped with initial creation.
+*Joop* - Helped with initial creation. 
