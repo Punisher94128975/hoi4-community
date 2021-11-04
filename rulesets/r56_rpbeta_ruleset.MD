@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/discord/183787140671471616?label=Discord&logo=discord&style=social" alt="Discord"/>](https://discord.gg/hoi4)
 [<img src="https://img.shields.io/reddit/subreddit-subscribers/Hearts_Of_Iron_IV_COM?label=Reddit&logo=reddit&logoColor=%23FF4500&style=social" alt="Reddit" >](https://www.reddit.com/r/Hearts_Of_Iron_IV_COM/)
 
-# Road to 56 RP Beta Ruleset
+# Road to 56 RP Beta Semi-Historical Ruleset
 - This is the HOI4 Community created and maintained ruleset for the *Road to 56 RP Beta* mod.
 - Anyone is allowed to propose changes to the public ruleset by creating a pull request.
 
@@ -13,6 +13,7 @@
 1. [Declaring Rules](#declaring-rules)  
 1. [Agency / Spies Rules](#declaring-rules)  
 1. [Unit Rules](#units-rules)  
+1. [Support Rules](#support-rules)  
 1. [Nation Rules](#nation-rules)  
    1. [Japan](#japan)
    1. [USA](#usa)  
@@ -83,6 +84,11 @@
 1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
     \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.
 
+## Support Rules
+1. Players may only send volunteers to other player nations during a civil war, except for:
+   1. Spanish Civil war
+   1. Sino-Japanese
+
 ## Nation Rules
 
 ### Japan
@@ -94,10 +100,12 @@
 1. May not enter "Giant Wakes" until January 1st 1937.
 
 ### Germany
-1. May not enter war against the Soviet Union until January 1st 1941.
+1. May not enter war with the Soviet Union until January 1st 1941.
+1. May not enter war with (AI) Estonia, Latvia, Lithuania until January 1st 1940 (Check [Declaring Rules](#declaring-rules) for PVP).
 
 ### Soviet Union
-1. May not enter war against Germany until January 1st 1941.
+1. May not enter war with Germany until January 1st 1941.
+1. May not enter war with (AI) Poland until Januard 1st 1940 (Check [Declaring Rules](#declaring-rules) for PVP).
 
 ### United Kingdom
 
