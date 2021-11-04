@@ -66,18 +66,18 @@
 ## Declaring Rules
 * Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!  
 
-**Dogpiling**
+**Dogpiling:**
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
 1. You must wait 1 year before declaring on a nation that has **entered a defensive war**.
 
-**Time Limits**
+**Time Limits:**
 1. Minors may not enter war against AI nations until January 1st 1937.  
 1. Majors may not enter war against AI nations until January 1st 1938.
 1. Minors may not enter war against Player nations on January 1st 1939.
 1. Majors may not enter war against Player nations on January 1st 1940.
 1. Events, Decisions, Focuses, etc are not excluded from the above rules.
 
-**Misc.**
+**Miscellaneous:**
 1. South American, Central American, and Chinese Warlord States may declare January 1st 1936.
 
 ## Agency / Spies Rules
