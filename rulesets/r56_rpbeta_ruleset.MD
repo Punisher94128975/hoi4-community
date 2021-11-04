@@ -138,3 +138,4 @@
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
+*Contributors* - For ongoing maintanance and a lot of help.
