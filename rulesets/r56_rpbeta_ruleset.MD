@@ -81,8 +81,9 @@
 
 ## Treaty Rules
 1. You may not take land from another player in a treaty that you did not fight for.
-1. You may only take land from the nations your troops directly entered.
-   1. E.g. if a faction leader capitulates you are only allowed to take the land from nations you directly entered and fought for.
+1. You may only take land of the nation of the territories your troops directly entered and fought for, except;
+   1. If a country capitulates, you may take the rest of that nations land.
+   1. If the country that capitulated was a faction leader you may not take land from faction members unless it abides by [Treaty Rule](#treaty-rule) #2.
 
 ## Agency / Spies Rules
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
