@@ -1,5 +1,5 @@
-[<img src="https://img.shields.io/discord/183787140671471616?color=%23697EC4&label=Discord&logo=Discord&logoColor=%23697EC4" alt="Hearts of Iron 4 Community"/>](https://discord.gg/hoi4)
-[<img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/Hearts_Of_Iron_IV_COM?label=Reddit&logo=reddit&logoColor=%23FF4500&style=social">](https://www.reddit.com/r/Hearts_Of_Iron_IV_COM/)
+[<img src="https://img.shields.io/discord/183787140671471616?label=Discord&logo=discord&style=social" alt="Discord"/>](https://discord.gg/hoi4)
+[<img src="https://img.shields.io/reddit/subreddit-subscribers/Hearts_Of_Iron_IV_COM?label=Reddit&logo=reddit&logoColor=%23FF4500&style=social" alt="Reddit" >](https://www.reddit.com/r/Hearts_Of_Iron_IV_COM/)
 
 # Road to 56 RP Beta Ruleset
 - This is the HOI4 Community created and maintained ruleset for the *Road to 56 RP Beta* mod.
