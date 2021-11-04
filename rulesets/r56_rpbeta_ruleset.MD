@@ -36,6 +36,8 @@
    1. Any country that is not considered a Supermajor or Major is considered a minor country
 
 ## Faction Rules:
+
+### Faction Size:
 1. Only 1 supermajor or formable supermajor allowed per faction.
 1. Only 2 majors allowed per faction.
 1. Up to 5 player minors allowed per faction.
