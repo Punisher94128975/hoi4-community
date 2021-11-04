@@ -89,7 +89,7 @@
     \* When disabled the in game action of paradrop is disabled, not the creation of the unit.
 1. Bypassing the "Number of Special Forces" in-game "Custom Game Rules" is not allowed and is exploiting game mechanincs.  
     \* The host can practically enable/disable the special forces cap in "Custom Game Rules" settings in-game.  
-1. Space Marines (Any form of Infantry/Camels/Bicycles mixed with tanks). Amhpbious tanks with marines are the exception.  
+1. Space Marines (Any division with Infantry/Camels/Bicycles/etc mixed with tanks. Amphibious tanks with marines are the only exception.)
 
 ## Naval Unit Rules  
 1. 1944 Submarines and beyond are banned (for balancing).
