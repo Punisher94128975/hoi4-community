@@ -112,7 +112,6 @@
 3. Must do Marco Polo before any sort of justification.
 4. Can't do Marco Polo until Jan 1st 1937
 
-
 ### USA
 1. May not enter war against the Japan until January 1st 1941.
 1. May not join a faction until January 1st 1940.
