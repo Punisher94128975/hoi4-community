@@ -39,7 +39,7 @@
    1. Soviet Union
    1. Any nation with over 500 total factories
 1. **Formable Supermajors:**
-   1. Franco Spanish Union
+   1. Franco Spanish Union ( With Portugal and Brazil. )
    1. Imperial Federation
    1. Anglosphere
    1. All formable continents (Europe, South America, Asia, etc.)
@@ -59,7 +59,8 @@
 1. Joining faction's of other ideologies is set in-game with "Custom Game Rules" by the host, not this ruleset.
 1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
 1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
-1. You may only join or leave factions once every year.
+2. Puppets count as Half a player in a faction.
+3. You may only join or leave factions once every year.
    1. You may join a faction via a National Focus at any time.
    1. If you join a faction via a National Focus you are allowed to imediately leave.
    1. **The above rules do not exclude you from [Faction Rule](#faction-rules) #3**.
@@ -84,6 +85,7 @@
 1. You may only take land of the nation of the territories your troops directly entered and fought for, except;
    1. If a country capitulates, you may take the rest of that nations land.
    1. You may not take land from capitulated faction members unless it abides by [Treaty Rule](#treaty-rule) #2.
+   2. Limit border gore
 
 ## Agency / Spies Rules
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
@@ -139,11 +141,28 @@
 ### United Kingdom
 1. May not decolonise or form African colaboration governments.
 2. Must let player nation subjects break free if they wish.
-3. May not deny the Germany Rhineland event. 
+3. May not deny the Germany Rhineland or Sudetenland event. 
+4. May not transfer puppets to themselfs.
+
+### China
+1. If you don't go to war with Japan or you beat japan you will be considered a major.
+2. Not allowed more than 500 divisions.
+
+### France
+1. May not deny the Germany Rhineland or Sudetenland event.
+2. May not decolonise or form African colaboration governments.
+
+### Italy 
+1. No other nation may declare war on Yugoslavia untill after January 1st 1939
+2. No volunteers or lend lease to Italian-Ethiopian war.
 
 ## Known Exploits
 1. Front Line Garrisoning
 1. Spanish Civil War
+2. USSR declaring on a major to peace out and cheese shmerch
+3. Plane Manpower dupe
+4. Double focus trees for the United States
+
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
