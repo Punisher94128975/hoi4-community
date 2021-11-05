@@ -84,8 +84,7 @@
 1. You may not take land from another player in a treaty that you did not fight for.
 1. You may only take land of the nation of the territories your troops directly entered and fought for, except;
    1. If a country capitulates, you may take the rest of that nations land.
-   1. You may not take land from capitulated faction members unless it abides by [Treaty Rule](#treaty-rule) #2.
-   2. Limit border gore
+   1. You may not take land from capitulated faction members unless it abides by [Treaty Rule](#treaty-rule) #2
 
 ## Agency / Spies Rules
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
@@ -143,6 +142,7 @@
 2. Must let player nation subjects break free if they wish.
 3. May not deny the Germany Rhineland or Sudetenland event. 
 4. May not transfer puppets to themselfs.
+5. May sell them at a resonable price at hosts discression.
 
 ### China
 1. If you don't go to war with Japan or you beat japan you will be considered a major.
