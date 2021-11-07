@@ -25,18 +25,15 @@
 ## General Rules
 1. **No exploiting.**
    - Using game mechanics to give yourself an un-fair advantage in a way not originally intended by the game/mod developer.
-1. **No circumventing the ruleset.**
+2. **No circumventing the ruleset.**
    - Using unthough-of mechanics to circumvent a rule to give yourself an advantage in which the rule was originally intended to stop. 
-1. **No cheating.**
+3. **No cheating.**
    - Using third-party software, hardware, or modified game/mod files in a malicous way or to give yourself/others an advantage.
-1. **No circumventing bans.**
+4. **No circumventing bans.**
    - Changing your Discord/steam/in-game username(s) to enter into games you are blacklisted from.
 
 ## State Transfer
 1. **No transfering states that are being justified on**
-
-## Misc Balancing
-1. **No intervention in the Sino-Japanese war (Ataches are allowed).**
 
 ## Country Designations
 1. **Supermajors:**
@@ -120,15 +117,15 @@
 ## Support Rules
 1. Players may only send volunteers to other player nations during standard or civil wars, except for:
    1. Spanish Civil war
-   1. Sino-Japanese
+1. No intervention in the Sino-Japanese war, or with the Chinese warlords (Attachés are allowed).
 
 ## Nation Specific Rules
 
 ### Japan
 1. May not enter war against the United States until January 1st 1941.
-1. Kamikaze planes may only be sent from starting Japanese cores.
-1. Must do Marco Polo before any sort of justification.
-1. Can't do Marco Polo until Jan 1st 1937
+2. Kamikaze planes may only be sent from starting Japanese cores.
+3. Must do Marco Polo before any sort of justification.
+4. Can't do Marco Polo until Jan 1st 1937
 
 ### USA
 1. May not enter war against the Japan until January 1st 1941.
@@ -158,18 +155,17 @@
 1. May not deny the Germany Rhineland or Sudetenland event.
 2. May not decolonise or form African colaboration governments.
 
-### Italy  
-1. No other nation may declare war on Yugoslavia untill after January 1st 1939  
-2. No volunteers or lend lease to Italian-Ethiopian war.  
+### Italy 
+1. No other nation may declare war on Yugoslavia untill after January 1st 1939
+2. No volunteers or lend lease to Italian-Ethiopian war.
 
-## Known Exploits  
-1. Front Line Garrisoning  
-1. Spanish Civil War  
-2. USSR declaring on a major to peace out and cheese shmerch  
-3. Plane Manpower dupe  
-4. Double focus trees for the United States  
-
-## 
+## Known Exploits
+1. Front Line Garrisoning
+1. Spanish Civil War
+2. USSR declaring on a major to peace out and cheese shmerch
+3. Plane Manpower dupe
+4. Double focus trees for the United States
+5. May not civil war your own country during a war.
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
