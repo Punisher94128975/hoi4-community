@@ -65,7 +65,7 @@
    1. Anglosphere
    1. All formable continents (Europe, South America, Asia, etc.)
 1. **Majors:**
-   1. All majors are defined in-game via Diplomacy -> Major Countries
+   1. Countries who have reached 200+ factories. if in a faction with already 2 existing majors aswell and reaches 200+ factories during a prolonged war they shall not have to be kicked aswell 
 1. **Minors:**
    1. Any country that is not considered a Supermajor or Major is considered a minor country
 
@@ -90,7 +90,7 @@
 * Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!  
 
 ### Dogpiling:
-1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
+1. You must wait 9 month before declaring on a nation that has **entered an offensive war**.  
 1. You must wait 1 year before declaring on a nation that has **entered a defensive war**.
 
 ### Time Limits:
@@ -135,7 +135,7 @@
 ## Support Rules
 1. Players may only send volunteers to other player nations during standard or civil wars, except for:
    1. Spanish Civil war
-1. No intervention in the Sino-Japanese war, or with the Chinese warlords (Attachés are allowed).
+1. Japan may be lend leased by the axis up to 10000 guns for the entirety of the war and china may be lend leased up to 10000 thousand guns per year each from the soviet union and the USA, they may also be sent volounteers from the soviet union
 
 ## Nation Specific Rules
 
@@ -148,7 +148,7 @@
 ### USA
 1. May not enter war against the Japan until January 1st 1941.
 1. May not join a faction until January 1st 1940.
-1. May not enter "Giant Wakes" until January 1st 1937.
+1. May not enter "Giant Wakes" until june 1st 1937.
 
 ### Germany
 1. May not enter war with the Soviet Union until January 1st 1941.
@@ -167,7 +167,7 @@
 
 ### China
 1. If you don't go to war with Japan or you beat japan you will be considered a major.
-1. Not allowed more than 500 divisions.
+1. the game in its entirety should have a limit on 1000 divisions per country since certain ones with their manpower can spam out divisions (for example the soviet union, china, british raj, brazil if they form south america which is easily achieved)
 
 ### France
 1. May not deny the Germany Rhineland or Sudetenland event.
@@ -178,7 +178,7 @@
 1. No volunteers or lend lease to Italian-Ethiopian war.
 
 ## Known Exploits
-1. Front Line Garrisoning
+1. Front Line Garrisoning (this should be removed since practically everyone does this)
 1. Spanish Civil War
 1. USSR declaring on a major to peace out and cheese shmerch
 1. Plane Manpower dupe
