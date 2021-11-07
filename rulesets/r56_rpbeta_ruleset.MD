@@ -7,19 +7,30 @@
 
 ## Index
 1. [General Rules](#general-rules)  
+1. [State Transfer](#state-transfer)  
+1. [Banned Countries](#banned-countries)  
 1. [Country Designations](#country-designations)  
 1. [Faction Size Limits](#faction-size-limits)  
 1. [Faction Rules](#faction-rules)  
 1. [Declaring Rules](#declaring-rules)  
+   1. [Dogpiling](#dogpiling)
+   1. [Dogpiling](#time-limits)
+1. [Treaty Rules](#treaty-rules)
 1. [Agency / Spies Rules](#declaring-rules)  
-1. [Unit Rules](#units-rules)  
+1. [Land Unit Rules](#land-unit-rules)  
+1. [Naval Unit Rules](#naval-unit-rules)  
+1. [Air Unit Rules](#air-unit-rules)  
 1. [Support Rules](#support-rules)  
 1. [Nation Specific Rules](#nation-specific-rules)  
    1. [Japan](#japan)
    1. [USA](#usa)  
    1. [Germany](#germany)  
    1. [Soviet Union](#soviet-union)  
-   1. [United Kingdom](#united-kingdom)   
+   1. [United Kingdom](#united-kingdom)  
+   1. [China](#china)  
+   1. [France](#france)
+   1. [Italy](#italy)
+   1. [Hungary](#hungary)
 1. [Credits](#credits)
 
 ## General Rules
@@ -34,6 +45,12 @@
 
 ## State Transfer
 1. **No transfering states that are being justified on**
+
+## Banned Countries
+1. Austria, Czechoslovakia, Poland are all banned if the German player wishes.
+1. Baltic countries are all banned if the Soviet player wishes.
+1. Manchukuo is banned unless the Japanese player wishes.
+1. Ethiopia, Albania is banned unless the Italian player wishes.
 
 ## Country Designations
 1. **Supermajors:**
@@ -50,12 +67,6 @@
    1. All majors are defined in-game via Diplomacy -> Major Countries
 1. **Minors:**
    1. Any country that is not considered a Supermajor or Major is considered a minor country
-
-## Banned Countries
-1. Austria, Czechoslovakia, Poland are all banned if the German player wishes.
-1. Baltic countries are all banned if the Soviet player wishes.
-1. Manchukuo is banned unless the Japanese player wishes.
-1. Ethiopia, Albania is banned unless the Italian player wishes.
 
 ## Faction Size Limits
 1. Only 1 supermajor or formable supermajor allowed per faction.
@@ -77,11 +88,11 @@
 ## Declaring Rules
 * Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!  
 
-**Dogpiling:**
+### Dogpiling:
 1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
 1. You must wait 1 year before declaring on a nation that has **entered a defensive war**.
 
-**Time Limits:**
+### Time Limits:
 1. Minors may not enter war against AI nations until January 1st 1937.  
 1. Majors may not enter war against AI nations until January 1st 1938.
 1. Minors may not enter war against Player nations on January 1st 1939.
