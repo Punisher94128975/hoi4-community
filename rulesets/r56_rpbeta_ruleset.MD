@@ -32,6 +32,12 @@
 1. **No circumventing bans.**
    - Changing your Discord/steam/in-game username(s) to enter into games you are blacklisted from.
 
+## State Transfer
+1. **No transfering states that are being justified on**
+
+## Misc Balancing
+1. **No intervention in the Sino-Japanese war (Ataches are allowed).**
+
 ## Country Designations
 1. **Supermajors:**
    1. United States
@@ -139,10 +145,6 @@
 
 ### United Kingdom
 1. May not decolonise or form African colaboration governments.
-<<<<<<< HEAD
-1. Must let player nation subjects break free if they wish.
-1. May not deny the Germany Rhineland event. 
-=======
 2. Must let player nation subjects break free if they wish.
 3. May not deny the Germany Rhineland or Sudetenland event. 
 4. May not transfer puppets to themselfs.
@@ -156,18 +158,18 @@
 1. May not deny the Germany Rhineland or Sudetenland event.
 2. May not decolonise or form African colaboration governments.
 
-### Italy 
-1. No other nation may declare war on Yugoslavia untill after January 1st 1939
-2. No volunteers or lend lease to Italian-Ethiopian war.
->>>>>>> 2df0351bfe0ab3866bdab1c4e41b499d41cc8d49
+### Italy  
+1. No other nation may declare war on Yugoslavia untill after January 1st 1939  
+2. No volunteers or lend lease to Italian-Ethiopian war.  
 
-## Known Exploits
-1. Front Line Garrisoning
-1. Spanish Civil War
-2. USSR declaring on a major to peace out and cheese shmerch
-3. Plane Manpower dupe
-4. Double focus trees for the United States
+## Known Exploits  
+1. Front Line Garrisoning  
+1. Spanish Civil War  
+2. USSR declaring on a major to peace out and cheese shmerch  
+3. Plane Manpower dupe  
+4. Double focus trees for the United States  
 
+## 
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
