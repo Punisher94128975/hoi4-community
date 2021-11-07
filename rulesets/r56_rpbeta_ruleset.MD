@@ -53,9 +53,9 @@
 
 ## Banned Countries
 1. Austria, Czechoslovakia, Poland are all banned if the German player wishes.
-2. Baltic countries are all banned if the Soviet player wishes.
-3. Manchukuo is banned unless the Japanese player wishes.
-4. Ethiopia, Albania is banned unless the Italian player wishes.
+1. Baltic countries are all banned if the Soviet player wishes.
+1. Manchukuo is banned unless the Japanese player wishes.
+1. Ethiopia, Albania is banned unless the Italian player wishes.
 
 ## Faction Size Limits
 1. Only 1 supermajor or formable supermajor allowed per faction.
