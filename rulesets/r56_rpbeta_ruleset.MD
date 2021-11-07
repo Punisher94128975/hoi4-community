@@ -45,6 +45,7 @@
 
 ## State Transfer
 1. **No transfering states that are being justified on**
+1. **No transfering states to manipulate borders before a war**
 
 ## Banned Countries
 1. Austria, Czechoslovakia, Poland are all banned if the German player wishes.
@@ -175,9 +176,6 @@
 ### Italy 
 1. No other nation may declare war on Yugoslavia untill after January 1st 1939
 1. No volunteers or lend lease to Italian-Ethiopian war.
-
-### Hungary
-1. Must ask Germany for permission if going Austria-Hungary.
 
 ## Known Exploits
 1. Front Line Garrisoning
