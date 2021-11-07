@@ -52,7 +52,10 @@
    1. Any country that is not considered a Supermajor or Major is considered a minor country
 
 ## Banned Countries
-1. Austria, Czechoslovakia, Poland are all Banned if the German player wishes.
+1. Austria, Czechoslovakia, Poland are all banned if the German player wishes.
+2. Baltic countries are all banned if the Soviet player wishes.
+3. Manchukuo is banned unless the Japanese player wishes.
+4. Ethiopia, Albania is banned unless the Italian player wishes.
 
 ## Faction Size Limits
 1. Only 1 supermajor or formable supermajor allowed per faction.
@@ -96,7 +99,6 @@
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
-2. You may not do collaboration governments in another country that is a player. (Only exception is the Sino-Japanese war.)
 
 ## Land Unit Rules  
 1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
@@ -162,6 +164,9 @@
 ### Italy 
 1. No other nation may declare war on Yugoslavia untill after January 1st 1939
 2. No volunteers or lend lease to Italian-Ethiopian war.
+
+### Hungary
+1. Must ask Germany for permission if going Austria-Hungary.
 
 ## Known Exploits
 1. Front Line Garrisoning
