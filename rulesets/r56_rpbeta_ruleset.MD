@@ -51,6 +51,9 @@
 1. **Minors:**
    1. Any country that is not considered a Supermajor or Major is considered a minor country
 
+## Banned Countries
+1. Austria, Czechoslovakia, Poland are all Banned if the German player wishes.
+
 ## Faction Size Limits
 1. Only 1 supermajor or formable supermajor allowed per faction.
 1. Only 2 majors allowed per faction.
