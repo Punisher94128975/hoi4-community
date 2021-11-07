@@ -93,6 +93,7 @@
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
+2. You may not do collaboration governments in another country that is a player. (Only exception is the Sino-Japanese war.)
 
 ## Land Unit Rules  
 1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
