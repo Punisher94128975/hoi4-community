@@ -115,6 +115,7 @@
 1. Players may only send volunteers to other player nations during standard or civil wars, except for:
    1. Spanish Civil war
    1. Sino-Japanese
+2. Players may only send attatches and may not lend-lease/send volunteers to China/Japan during the Sino-Japanese war. Lend-leasing to China or Chinese warlords before the Sino-Japanese war is also prohibited.
 
 ## Nation Specific Rules
 
