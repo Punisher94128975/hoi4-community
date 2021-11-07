@@ -149,6 +149,7 @@
 1. May not enter war against the Japan until January 1st 1941.
 1. May not join a faction until January 1st 1940.
 1. May not enter "Giant Wakes" until January 1st 1937.
+1. If USA does "Union representation act" he must go communist.
 
 ### Germany
 1. May not enter war with the Soviet Union until January 1st 1941.
