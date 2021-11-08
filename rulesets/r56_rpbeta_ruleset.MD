@@ -120,6 +120,7 @@
 1. Space Marines (Any division with Infantry/Camels/Bicycles/etc mixed with tanks. Amphibious tanks with marines are the only exception).
 1. Use of Asymmetrical Warfare doctorine is prohibited. If you start with it you must change.
 1. Minimum division template combat width of 10.
+1. Motorized shocktroops are banned.
 
 ## Naval Unit Rules  
 1. 1944 Submarines and beyond are banned.
