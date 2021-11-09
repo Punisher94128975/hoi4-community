@@ -139,6 +139,12 @@
    1. Spanish Civil war
 2. No intervention in the Sino-Japanese war, or with the Chinese warlords (Attachés are allowed).
 3. Tank volunteers are allowed but may not be used on the front-line. (This is to grind panzer leader).
+4. Air volunteers may only be sent to the spanish civil war.
+
+## Puppet Rules 
+1. You may only release one puppet per year.
+2. You may only have a maximum of five puppets excluding UK who starts with more puppets.
+3. Releasing puppets to destroy front-lines is NOT allowed.
 
 ## Nation Specific Rules
 
