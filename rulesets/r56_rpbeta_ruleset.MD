@@ -136,8 +136,7 @@
 1. Use of the "Kamikaze" strike mission is banned.
 
 ## Support Rules
-1. Players may only send volunteers to other player nations during standard or civil wars, except for:
-   1. Spanish Civil war
+1. Players may only send volunteers to players if at war with an AI. Sending volunteers to an AI to kill/hinder a player is not allowed.
 2. No intervention in the Sino-Japanese war, or with the Chinese warlords (Attachés are allowed).
 3. Tank volunteers are allowed but may not be used on the front-line. (This is to grind panzer leader).
 4. Air volunteers may only be sent to the spanish civil war.
