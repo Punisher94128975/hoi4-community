@@ -66,14 +66,15 @@
    1. Anglosphere
    1. All formable continents (Europe, South America, Asia, etc.)
 1. **Majors:**
-   1. All majors are defined in-game via Diplomacy -> Major Countries
+   1. Countries that have over 200 factories and have formed a nation
 1. **Minors:**
    1. Any country that is not considered a Supermajor or Major is considered a minor country
 
 ## Faction Size Limits
-1. Only 1 supermajor or formable supermajor allowed per faction.
-1. Only 2 majors allowed per faction.
+only 1 superpower per faction (superpowers are considered majors)
+1. Only 2 majors allowed per faction. 
 1. Up to 5 player minors allowed per faction.
+1. (for example you can have a faction with 2 majors 3 minors or 5 minors)
 1. **A Maximum of 5 player nations are allowed per faction** (so long as it abides by the above faction rules).
 
 ## Faction Rules
@@ -82,7 +83,7 @@
 1. Changing faction members during a war against any faction that contains a player nation **is not allowed**.
 1. Changing faction members during a war against any faction that contains only AI nations **is allowed**.
 1. Puppets count as Half a player in a faction.
-1. You may only join or leave factions once every year.
+1. You may only join or leave factions once every half year.
    1. You may join a faction via a National Focus at any time.
    1. If you join a faction via a National Focus you are allowed to imediately leave.
    1. **The above rules do not exclude you from [Faction Rule](#faction-rules) #3**.
@@ -91,14 +92,14 @@
 * Please check to see if there are [Nation Specific Rules](#nation-specific-rules) for your country!  
 
 ### Dogpiling:
-1. You must wait 3 month before declaring on a nation that has **entered an offensive war**.  
+1. You must wait 8 month before declaring on a nation that has **entered an offensive war**.  (if germany goes to war with france and the allies and then gets declared on by the soviets 3 months later and his faction then the game is practically over since germany cant hold off both countries, remove this parenthesis)
 1. You must wait 1 year before declaring on a nation that has **entered a defensive war**.
 
 ### Time Limits:
 1. Minors may not enter war against AI nations until January 1st 1937.  
 1. Majors may not enter war against AI nations until January 1st 1938.
-1. Minors may not enter war against Player nations on January 1st 1939.
-1. Majors may not enter war against Player nations on January 1st 1940.
+1. Minors may not enter war against player nations untill January 1st 1939.
+1. Majors may not enter war against Player nations untill January 1st 1940.
 1. South American, Central American, and Chinese Warlord States may declare January 1st 1936.
 1. Events, Decisions, Focuses, etc are not excluded from the above rules.
 
@@ -111,8 +112,8 @@
 ## Agency / Spies Rules
 1. Coups are decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
 1. Boosting party popularity is decided in-game, set with "Custom Game Rules" by the host, not this ruleset.
-1. You may not use spies on the enemy front-line to nullify their planning bonus and or entrenchment.
-1. You may not use collaboration government against player nations. (With the exception of Sino-Japanese war, Barbarossa and German-French war.)
+1. this rule here is just meh and i dont think it should be here reason being its just not very often this happens ingame and its just a good move by a player which the other party themselves can do aswell or build up max counter intelligence to nullify the effects of this
+1. You may not use collaboration government against player nations. (With the exception of Sino-Japanese war)
 
 ## Land Unit Rules  
 1. Paradrops are enabled/disabled in-game with "Custom Game Rules" set by the host, not this ruleset.  
@@ -133,17 +134,17 @@
 ## Air Unit Rules  
 1. Any Heavy Bomber technology above 1936 is banned except;
 1. You may deploy a single Strategic Bomber newer than 1936 for use with nukes.
-1. Use of the "Kamikaze" strike mission is banned.
+1. Use of the "Kamikaze" strike mission is banned. (except japan. its one of the main things that japan uses do defend itself against the USA so this shouldnt be banned)
 
 ## Support Rules
-1. Players may only send volunteers to players if at war with an AI. Sending volunteers to an AI to kill/hinder a player is not allowed.
+1. Players may only send volunteers to players if at war with an AI. Sending volunteers to an AI to kill/hinder a player is not allowed. (exception the spanish civil war)
 2. No intervention in the Sino-Japanese war, or with the Chinese warlords (Attachés are allowed).
 3. Tank volunteers are allowed but may not be used on the front-line. (This is to grind panzer leader).
 4. Air volunteers may only be sent to the spanish civil war.
 
 ## Puppet Rules 
 1. You may only release one puppet per year.
-2. You may only have a maximum of five puppets excluding UK who starts with more puppets.
+2. you may only release a maximum of 5 puppets. releasing puppets from conquered countries that already existed does not count (brazil puppeting south america while conquering it for example)
 3. Releasing puppets to destroy front-lines is NOT allowed.
 
 ## Nation Specific Rules
@@ -157,7 +158,7 @@
 ### USA
 1. May not enter war against the Japan until January 1st 1941.
 1. May not join a faction until January 1st 1940.
-1. May not enter "Giant Wakes" until January 1st 1937.
+1. May not enter "Giant Wakes" until june 1st 1937.
 1. If USA does "Union representation act" he must go communist.
 
 ### Germany
@@ -166,18 +167,19 @@
 
 ### Soviet Union
 1. May not enter war with Germany until January 1st 1941.
-1. May not enter war with (AI) Poland until Januard 1st 1940 (Check [Declaring Rules](#declaring-rules) for PVP).
+1. (the soviets historically invaded and took parts of eastern poland and the germans invaded and took western poland. only letting germany take all of poland doesnt make sense, and i mean all of poland since you barely ever see germany and soviet do the molotov ribbentrop pact. i do not think this rule should exist)
+soviets may not demand karjalankanas untill jan 1st 1940
 
 ### United Kingdom
 1. May not decolonise or form African colaboration governments.
 1. Must let player nation subjects break free if they wish.
 1. May not deny the Germany Rhineland or Sudetenland event. 
-1. May not transfer puppets to themselfs.
+1. May not transfer starting puppets to themselfs.
 1. May sell them at a resonable price at hosts discression.
 
 ### China
 1. If you don't go to war with Japan or you beat japan you will be considered a major.
-1. Not allowed more than 500 divisions.
+1. Not allowed more than 500 divisions unless deemed necessary (imagine china goes to war with the usa and has to defend its coastline and then goes to war with the soviets. 500 will not be enough)
 
 ### France
 1. May not deny the Germany Rhineland or Sudetenland event.
@@ -194,6 +196,10 @@
 1. Plane Manpower dupe
 1. Double focus trees for the United States
 1. May not civil war your own country during a war.
+1. Ace farming
+1. Silent naval invasions
+1. Volounteer naval invasions
+1. 
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
